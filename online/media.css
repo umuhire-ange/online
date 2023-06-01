@@ -1,0 +1,47 @@
+
+
+.intro{
+    margin-top: 0%;
+    margin-left: 5%;
+}
+.intro h2{
+    color: grey;
+      margin-left: 35%;
+}
+.intro video{
+   width: 400px;
+   height: 200px;
+}
+.intro img{
+     width: 210px;
+   height: 200px;
+}
+.info{
+   margin-left: 2%;
+    margin-top: 0%; 
+}
+h1{
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+    margin-left: 10%;
+    margin-top: -7.5%;
+}
+.links{
+    background: purple;
+    padding: 4.4px;
+    width: 86%;
+    margin-left: 2%;
+    margin-bottom: 3%;
+
+}
+ul li{
+    display: inline-block;
+    margin-left: 6%;
+}
+ul li a{
+
+    color: white;
+    text-decoration: none;
+}
+

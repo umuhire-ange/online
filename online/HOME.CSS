@@ -1,0 +1,60 @@
+
+.head.logo img{
+    height: 20%;
+}
+.club img{
+width: 31px;
+height: 45px;
+padding: 10px;
+}
+.club{
+    margin-left: 15%;
+    margin-top: -5%;
+}
+
+.intro{
+    margin-top: 0%;
+    margin-left: 3%;
+}
+.intro h2{
+    color: grey;
+      margin-left: 30%;
+      text-decoration: underline;
+      margin-bottom: 3%;
+}
+.intro video{
+   width: 400px;
+   height: 200px;
+}
+.intro img{
+    width: 210px;
+   height: 200px;
+}
+.info{
+   margin-left: 2%;
+    margin-top: 0%; 
+}
+h1{
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+    margin-left: 10%;
+    margin-top: -7.5%;
+}
+.links{
+    background: purple;
+    padding: 4.4px;
+    width: 86%;
+    margin-left: 9%;
+
+}
+ul li{
+    display: inline-block;
+    margin-left: 6%;
+}
+ul li a{
+
+    color: white;
+    text-decoration: none;
+}
+
